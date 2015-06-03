@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "a23072149ecdef22a6e8ebf70e10013b"
+inputs: 
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/memeTests/memeTests.swift"

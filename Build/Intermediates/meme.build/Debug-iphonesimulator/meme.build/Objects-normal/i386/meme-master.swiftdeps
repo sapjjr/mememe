@@ -1,0 +1,10 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "44f650c9829606cef73717bb3c97a4a7"
+inputs: 
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/ViewController.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/MemeModel.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/MemeTableCell.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/MemeCollectionViewController.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/MemeCollectionCell.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/AppDelegate.swift"
+- "/Users/andrew/Documents/xcodeProjects/nanodegeree/meme/meme/MemeTableViewController.swift"
